@@ -77,7 +77,7 @@
 
 ## [zrafaf](https://github.com/zrafaf/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrafaf&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrafaf&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrafaf&show_icons=true&theme=transparent)
 
@@ -100,17 +100,10 @@
 <br>
 <br>
 
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
 <br>
 <br>
 
----
+___
 
 <br>
 
