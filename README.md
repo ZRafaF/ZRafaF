@@ -77,7 +77,7 @@
 
 ## [zrafaf](https://github.com/zrafaf/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrafaf&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrafaf&exclude_repo=SFML_IMGUI_BoilerCode,eel-with-react&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrafaf&show_icons=true&theme=transparent)
 
